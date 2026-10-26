@@ -1,11 +1,11 @@
 # En Resmi ve En Gereksiz Dilekçe Üreticisi
 
-## Resmi Tanım ve Bilimsel Temel
+## Resmi Tanım ve Bilimsel Temel (Mahkeme Onaylı)
 
-Bu repository, insanlık tarihinin en ciddi, en abartılı, en bürokratik ve aynı zamanda en tamamen anlamsız dilekçelerini üreten devrimci bir sistemdir. Gerçekten çalışır. Gerçekten resmi gibi görünür. Gerçekten hiçbir işe yaramaz.
+Bu repository, insanlık tarihinin en ciddi, en abartılı, en bürokratik ve aynı zamanda en tamamen anlamsız dilekçelerini üreten devrimci bir sistemdir. Gerçekten çalışır. Gerçekten resmi gibi görünür. Gerçekten hiçbir işe yaramaz. Mahkeme onaylıdır (değildir).
 
 ### Kullanım Amacı
-Hayatınızda karşılaştığınız en küçük sorunları bile mahkeme önüne taşıyacak seviyede resmi dilekçelere dönüştürür. Örnek: "Kahve bitti" → 47 paragraflık acil durum dilekçesi.
+Hayatınızda karşılaştığınız en küçük sorunları bile mahkeme önüne taşıyacak seviyede resmi dilekçelere dönüştürür. Örnek: "Kahve bitti" → 47 paragraflık acil durum dilekçesi. Mahkeme onaylı.
 
 ### Kurulum ve Çalıştırma
 ```bash
